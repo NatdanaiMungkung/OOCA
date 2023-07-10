@@ -1,0 +1,6 @@
+run
+`npm install`
+
+then you can run `node index.js` to run sample input
+
+or you can run `npm run test` to run unit test
