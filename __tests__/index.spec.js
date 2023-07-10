@@ -1,4 +1,4 @@
-const { calculatePrice } = require("../index");
+const { calculatePrice } = require("../calculatePrice");
 // Unit test using Jest
 describe("calculatePrice", () => {
   it("calculates the total price correctly without a member card", () => {
